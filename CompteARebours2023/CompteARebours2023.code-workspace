@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../HtmlCssJavascriptProjets/horlogeNoel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CompteARebours2023"
+	}
+}
